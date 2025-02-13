@@ -8,3 +8,6 @@ elif age > 10 and age < 18:
 
 elif age > 18:
     print(" The ticket price is $15.")
+
+
+   
